@@ -1,0 +1,17 @@
+# Streamlit 기본 패키지
+streamlit>=1.32.0
+# 데이터 처리
+pandas>=2.2.0
+numpy>=1.26.0
+# 시각화
+matplotlib>=3.8.0
+plotly>=5.20.0
+# API 요청
+requests>=2.31.0
+# AI/언어모델 연동 시 (OpenAI API)
+openai>=1.30.0
+# LangChain 사용 시
+langchain>=0.2.0
+langchain-openai>=0.1.7
+# 기타 유틸리티
+python-dotenv>=1.0.1
